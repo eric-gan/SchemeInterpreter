@@ -4,7 +4,7 @@ Full-fledged interpeter for the Scheme/Lisp language written in Python. Tail-rec
 
 To run: 
 Download and then run the following command
-'python3 scheme.py' or 'python scheme.py' depending on which version of python you have.
+`python3 scheme.py` or `python scheme.py` depending on which version of python you have.
 
 The interpreter should then appear in terminal, and ready to evaluate scheme commands.
 
